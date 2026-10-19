@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C115360217_Project\\C_code\\Ch2_homework\\CH2homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_17.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_27.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_28.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_31.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_16.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_33.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_19.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAFC4F-35F2-4928-B2D9-E269138554E4}|CH2homework\\CH2homework.vcxproj|C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_18.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HW_4_27.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_27.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_4_27.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_27.c",
+              "RelativeToolTip": "..\\source\\HW_4_27.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:13:22.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HW_4_28.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_28.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_4_28.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_28.c",
+              "RelativeToolTip": "..\\source\\HW_4_28.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:13:39.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HW_4_31.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_31.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_4_31.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_31.c",
+              "RelativeToolTip": "..\\source\\HW_4_31.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:13:52.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HW_4_16.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_16.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_4_16.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_16.c",
+              "RelativeToolTip": "..\\source\\HW_4_16.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:12:50.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HW_4_15.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_15.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_4_15.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_4_15.c",
+              "RelativeToolTip": "..\\source\\HW_4_15.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:12:27.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HW_3_33.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_33.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_3_33.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_33.c",
+              "RelativeToolTip": "..\\source\\HW_3_33.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:11:58.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HW_3_20.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_20.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_3_20.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_20.c",
+              "RelativeToolTip": "..\\source\\HW_3_20.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:11:46.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HW_3_19.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_19.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_3_19.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_19.c",
+              "RelativeToolTip": "..\\source\\HW_3_19.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:11:32.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HW_3_18.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_18.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_3_18.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_18.c",
+              "RelativeToolTip": "..\\source\\HW_3_18.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:11:17.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HW_3_17.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_17.c",
+              "RelativeDocumentMoniker": "..\\source\\HW_3_17.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\HW_3_17.c",
+              "RelativeToolTip": "..\\source\\HW_3_17.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:10:47.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\main.c",
+              "RelativeDocumentMoniker": "..\\source\\main.c",
+              "ToolTip": "C:\\C115360217_Project\\C_code\\Ch2_homework\\source\\main.c",
+              "RelativeToolTip": "..\\source\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T12:05:02.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

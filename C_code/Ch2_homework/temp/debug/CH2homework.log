@@ -1,0 +1,46 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  HW_3_17.c
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_17.c(16,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_17.c(21,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_17.c(24,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_17.c(27,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_17.c(30,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW_3_18.c
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_18.c(12,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW_3_19.c
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_19.c(14,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_19.c(19,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_19.c(22,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW_3_20.c
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_20.c(13,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_20.c(18,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW_3_33.c
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_33.c(11,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_3_33.c(14,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW_4_15.c
+  HW_4_16.c
+  HW_4_27.c
+  HW_4_28.c
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_4_28.c(16,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_4_28.c(23,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_4_28.c(29,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_4_28.c(31,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_4_28.c(45,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_4_28.c(52,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C115360217_Project\C_code\Ch2_homework\source\HW_4_28.c(54,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HW_4_31.c
+  main.c
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(14,9): warning C4013: 'HW_3_17' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(17,9): warning C4013: 'HW_3_18' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(20,9): warning C4013: 'HW_3_19' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(23,9): warning C4013: 'HW_3_20' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(26,9): warning C4013: 'HW_3_33' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(29,9): warning C4013: 'HW_4_15' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(32,9): warning C4013: 'HW_4_16' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(35,9): warning C4013: 'HW_4_27' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(38,9): warning C4013: 'HW_4_28' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(41,9): warning C4013: 'HW_4_31' 未定義; 假設 extern 傳回整數
+C:\C115360217_Project\C_code\Ch2_homework\source\main.c(10,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在產生程式碼...
+  CH2homework.vcxproj -> C:\C115360217_Project\C_code\Ch2_homework\temp\debug\CH2homework.exe
