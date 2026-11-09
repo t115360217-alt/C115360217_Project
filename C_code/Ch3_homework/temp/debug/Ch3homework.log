@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  HW_5_28.c
+  HW_5_29.c
+  HW_5_34.c
+  HW_5_35.c
+  HW_5_36.c
+  main.c
+  P12.c
+  P13.c
+  P15.c
+  P16.c
+  P18.c
+  P20.c
+  P21.c
+  P23.c
+  P27.c
+  正在產生程式碼...
+  Ch3homework.vcxproj -> C:\C115360217_Project\C_code\Ch3_homework\temp\debug\Ch3homework.exe
